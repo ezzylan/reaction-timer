@@ -2,6 +2,8 @@
 
 A reaction timer web app made using Vue.js.
 
+[Ready to test your reflexes?](https://ezzylan.github.io/vue-reaction-timer/)
+
 ## Project setup
 
 ```
